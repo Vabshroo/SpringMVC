@@ -9,6 +9,7 @@
   <modules>
     <module>socket</module>
     <module>common</module>
+      <module>http</module>
   </modules>
 
   <name>springmvc</name>
